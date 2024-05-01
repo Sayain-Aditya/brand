@@ -8,3 +8,6 @@
     box-sizing: border-box;
     font-family: poppins;
 }
+::selection{
+    color: rgb(220, 165, 15)
+}
